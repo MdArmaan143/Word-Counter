@@ -1,0 +1,24 @@
+body{
+    padding: 0px 100px;
+}
+h1{
+    text-align: center;
+    background-color: #0067b0;
+    color: white;
+    padding:10px ;
+    margin: 0px;
+}
+textarea{
+    width: 99.4%;
+    border-color: #0067b0;
+    font-size: 15px;
+}
+p{
+    text-align: center;
+    background-color: #0067b0;
+    font-size: 25px;
+    font-weight: bold;
+    color: white;
+    padding: 10px;
+    margin: 0px;
+}
