@@ -14,7 +14,7 @@ A simple **Word and Character Counter** built using **HTML, CSS, and JavaScript*
 - **JavaScript** - Logic for counting words and characters  
 
 ## 📸 Screenshot
-![Word & Character Counter Screenshot](C:\Users\Arman\Downloads\CampusHelper\Word-Counter\README.md) 
+![Screenshot 2025-03-22 124904.png](Screenshot 2025-03-22 124904.png) 
 
 ## 🎯 How to Use
 1. Type or paste text into the input area.  
